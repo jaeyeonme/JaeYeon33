@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm Jaeyeon, want to beome a Web Developer 🚀 from South Korea, currently, I'm learning a language.
+Hi, I'm Jaeyeon, want to beome a Web Developer 🚀 from South Korea 🇰🇷
 
 **Talking about Personal Stuffs:**
 
