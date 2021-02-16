@@ -17,7 +17,7 @@ Hi, I'm Jaeyeon, want to beome a Web Developer 🚀 from South Korea 🇰🇷
 - 📚 Interested In
   - Docker
   - Kubernetes
-  - ML, AL
+  - ML, AI
 
 <br>
 <br>
