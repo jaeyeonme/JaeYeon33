@@ -22,8 +22,11 @@ Hi, I'm Jaeyeon, want to beome a Web Developer 🚀 from South Korea 🇰🇷
 <br>
 <br>
 
-🏃 experience
+🏃 Experience
 - (20. 10 ~ 201. 03) 이젠아카데미 - 전자정부 Framework 개발자 과정
+
+<br>
+<br>
 
 **Contact ✈️**
 
