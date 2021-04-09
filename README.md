@@ -55,9 +55,7 @@ Hi, I'm Jaeyeon, want to beome a Web Developer 🚀 from South Korea 🇰🇷
 <hr />
 <br>
 
-<a href="https://github.com/jaeyeon33/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaeYeon33&show_icons=true&theme=tokyonight">
-</a>
-<a href="https://github.com/jaeyeon33/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYeon33&layout=compact&theme=tokyonight">
-</a>
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JaeYeon33&show_icons=true&theme=tokyonight height=27">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYeon33&layout=compact&theme=tokyonight">
+</p>
