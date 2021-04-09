@@ -53,10 +53,16 @@ Hi, I'm Jaeyeon, want to beome a Web Developer 🚀 from South Korea 🇰🇷
 
 
 <hr />
-<br>
+
+<details markdown="1">
+<summary><strong>:octocat: GitHub Stats</strong></summary>
+
+<br/>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JaeYeon33&show_icons=true&theme=radical&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYeon33&layout=compact&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JaeYeon33&show_icons=true&theme=tokyonight&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYeon33&layout=compact&theme=tokyonight&line_height=25">
 </p>
+
+</details>
 
