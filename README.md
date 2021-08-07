@@ -9,8 +9,6 @@ Hi, I'm Jaeyeon, want to become a Java Back-end Engineer! 🚀
 
 🏃 Experience
 - (20. 10 ~ 21. 03) 이젠아카데미 - 전자정부 Framework 개발자 과정
-  - Spring MVC + MyBatis + MySQL => Web
-  - Python + Tensorflow => ML, DL
 
 <br>
 <br>
